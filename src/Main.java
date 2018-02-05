@@ -20,7 +20,7 @@ public class Main {
 	        totalRain = 0;
 	        counter = 0;
         } else {
-	        System.out.println("Sorry, don't understand that");
+	        System.out.println("Sorry, don't understand: " + rain);
         }
     }
 
